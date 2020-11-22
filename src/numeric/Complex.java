@@ -13,29 +13,35 @@ public class Complex implements Numeric {
         pereche = new Pereche(real, imaginar);
     }
 
+    @Override
     public Pereche getPair()
     {
         return pereche;
     }
 
+    @Override
     public void setPair(Pereche x)
     {
         pereche = x;
     }
 
-    public int getReal() {
+    @Override
+    public int getX() {
         return pereche.getX();
     }
 
-    public void setReal(int real) {
+    @Override
+    public void setX(int real) {
         pereche.setX(real);
     }
 
-    public int getImaginar() {
+    @Override
+    public int getY() {
         return pereche.getY();
     }
 
-    public void setImaginar(int imaginar) {
+    @Override
+    public void setY(int imaginar) {
         pereche.setY(imaginar);
     }
 

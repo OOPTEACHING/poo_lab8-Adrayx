@@ -14,27 +14,33 @@ public class Fractie implements Numeric {
         this.pereche.setY(numitor);
     }
 
+    @Override
     public Pereche getPair() {
         return pereche;
     }
 
+    @Override
     public void setPair(Pereche pereche) {
         this.pereche = pereche;
     }
 
-    public int getNumarator() {
+    @Override
+    public int getX() {
         return this.pereche.getX();
     }
 
-    public void setNumarator(int numarator) {
+    @Override
+    public void setX(int numarator) {
         this.pereche.setX(numarator);
     }
 
-    public int getNumitor() {
+    @Override
+    public int getY() {
         return this.pereche.getY();
     }
 
-    public void setNumitor(int numitor) {
+    @Override
+    public void setY(int numitor) {
         this.pereche.setY(numitor);
     }
 
