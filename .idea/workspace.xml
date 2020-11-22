@@ -20,21 +20,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5d049d70-b520-4dce-8a58-cc1ebed6637f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/cloneable/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cloneable/Masina.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cloneable/MasinaDeep.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cloneable/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cloneable/StudentDeep.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/comparable/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/comparable/Persoana.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/numeric/Complex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/numeric/Fractie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/numeric/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/numeric/MatriceComplex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/numeric/MatriceFractie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/numeric/Numeric.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/numeric/Pereche.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problemaInterfata/DealerAuto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problemaInterfata/Magazin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problemaInterfata/Masina.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problemaInterfata/ParticipantLaTrafic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problemaInterfata/Taxe.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problemaInterfata/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,6 +52,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="dart.analysis.tool.window.visible" value="false" />
@@ -75,7 +69,7 @@
       <recent name="D:\Faculta\An_2\OOP\poo_lab8-Adrayx\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="numeric.Main" />
       <module name="POO_Lab8" />
@@ -90,7 +84,7 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
+      <option name="MAIN_CLASS_NAME" value="problemaInterfata.Main" />
       <module name="POO_Lab8" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
@@ -99,8 +93,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (1)" />
       </list>
     </recent_temporary>
@@ -115,7 +123,7 @@
       <updated>1605808019353</updated>
       <workItem from="1605808020903" duration="7000" />
       <workItem from="1605978263625" duration="13802000" />
-      <workItem from="1606004316740" duration="594000" />
+      <workItem from="1606004316740" duration="4003000" />
     </task>
     <servers />
   </component>
@@ -135,26 +143,26 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="765" y="224" key="#com.intellij.ide.util.MemberChooser" timestamp="1605982034377">
+    <state x="765" y="224" key="#com.intellij.ide.util.MemberChooser" timestamp="1606008019594">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="765" y="224" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1605982034377" />
-    <state width="1873" height="272" key="GridCell.Tab.0.bottom" timestamp="1605998457330">
+    <state x="765" y="224" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1606008019594" />
+    <state width="912" height="274" key="GridCell.Tab.0.bottom" timestamp="1606009847158">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1873" height="272" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1605998457330" />
-    <state width="1873" height="272" key="GridCell.Tab.0.center" timestamp="1605998457329">
+    <state width="912" height="274" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1606009847158" />
+    <state width="912" height="274" key="GridCell.Tab.0.center" timestamp="1606009847158">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1873" height="272" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1605998457329" />
-    <state width="1873" height="272" key="GridCell.Tab.0.left" timestamp="1605998457329">
+    <state width="912" height="274" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1606009847158" />
+    <state width="912" height="274" key="GridCell.Tab.0.left" timestamp="1606009847157">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1873" height="272" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1605998457329" />
-    <state width="1873" height="272" key="GridCell.Tab.0.right" timestamp="1605998457329">
+    <state width="912" height="274" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1606009847157" />
+    <state width="912" height="274" key="GridCell.Tab.0.right" timestamp="1606009847158">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1873" height="272" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1605998457329" />
+    <state width="912" height="274" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1606009847158" />
     <state width="1873" height="336" key="GridCell.Tab.1.bottom" timestamp="1605983388334">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
